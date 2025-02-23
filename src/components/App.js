@@ -1,6 +1,5 @@
-import { useState } from "react";
 import "../styles/App.css";
-import { useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 const App = ()=> {
     const [started,setState] = useState(false);
