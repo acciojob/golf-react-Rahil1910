@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./index.css";
+import "./../styles/App.css";
 import { useEffect } from "react";
 
 const App = ()=> {
